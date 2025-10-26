@@ -22,10 +22,10 @@ const AuthenticatedNavbar = ({ toggleSidebar }) => {
         <Link to={path} className="btn btn-ghost normal-case text-xl max-sm:p-0">
           <img
             src="/logo.png"
-            alt="TurfSpot"
+            alt="TurfBox"
             className="h-10 w-10 mask mask-squircle"
           />
-          TurfSpot
+          TurfBox
         </Link>
       </div>
       <div className="navbar-end">
